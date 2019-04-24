@@ -1,5 +1,5 @@
 #  Intro
-A simpler spider which scrapes quotes.toscrape.com, a website that lists quotes from famous authors.
+A simpler spider which scrapes http://quotes.toscrape.com, a website that lists quotes from famous authors.
 
 # Run the spider
 
